@@ -33,3 +33,36 @@ footer{
 #about{
     background: url(..//css);
 }
+
+form{
+    width: 50%;
+    margin: 1px auto;
+    background-color:cornflowerblue;
+    padding: 10px;
+    border: 1px solid purple;
+}
+label{
+/* display: block; */
+
+}
+input,textarea,select{
+    border: 1px solid red;
+    width: 100% ;
+    border-radius: 5px;
+}
+input[type="radio"] {
+    width: 1px;
+}
+input[type="checkbox"]{
+    width: 1px;
+}
+button{
+    background-color: red;
+    width: 100%;
+    border: none;
+    color: none;
+    cursor: pointer
+}
+#head{
+    text-align: center;
+}
