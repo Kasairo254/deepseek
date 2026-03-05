@@ -1,5 +1,5 @@
 body{
-    background-color: bisque ;
+    background: chocolate;
 
 }
 header{
@@ -31,7 +31,8 @@ footer{
     text-align: center;
 }
 #about{
-    background: url(..//css);
+    background: url(..//css/images/background.webp);
+    height: 70vh;
 }
 
 form{
@@ -66,3 +67,7 @@ button{
 #head{
     text-align: center;
 }
+h2{
+    background-color:green;
+}
+
